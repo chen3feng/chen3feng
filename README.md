@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Here are some of my personal profile:
+
+- 🔭 I’m currently working in Tencent(腾讯)
+- 👯 I’m currently living in Shenzhen, China.
+- 👪 I'm married and have 1 boy.
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=chen3feng&show_icons=true)
