@@ -21,4 +21,6 @@ Here are some of my personal profile:
 - 👯 I’m currently living in Shenzhen, China.
 - 👪 I'm married and have 1 boy.
 
+My LinkedIn profile: [陈峰](https://cn.linkedin.com/in/chen3feng/)
+
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=chen3feng&show_icons=true)
