@@ -37,3 +37,9 @@ Here are some of my personal profile:
 My LinkedIn profile: [陈峰](https://cn.linkedin.com/in/chen3feng/)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=chen3feng&show_icons=true)
+
+## Languages
+
+- ★★★ C++, C, Python
+- ★★☆ Bash, Visual Basic
+- ★☆☆ Java, JavaScript, C#, Golang
