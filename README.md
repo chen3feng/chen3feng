@@ -41,5 +41,5 @@ My LinkedIn profile: [陈峰](https://cn.linkedin.com/in/chen3feng/)
 ## Languages
 
 - ★★★ C++, C, Python
-- ★★☆ Bash, Visual Basic
-- ★☆☆ Java, JavaScript, C#, Golang
+- ★★☆ Bash, Visual Basic, Golang
+- ★☆☆ Java, JavaScript, C#
